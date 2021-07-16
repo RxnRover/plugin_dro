@@ -24,7 +24,7 @@ Download this plugin by clicking the "Code" button in the top right of its
 GitHub repository and selecting "Download ZIP". Extract the ZIP file into your 
 `<documents>/Plugins/Optimizers` directory. 
 
-### Setting up SQSnobFit Optimizer
+### Setting up DRO
 
 Inside `<documents>/Plugins/Optimizers/Deep Reaction Optimizer` there are two folders, 
 `plugin`, where the Rxn Rover plugin resides, and `dro2`, where the necessary 
